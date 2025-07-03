@@ -175,11 +175,9 @@ Convert to TensorFlow Lite for mobile apps
 
 👨‍💻 Author
 
-Project by: [Your Name]
+Project by: Yerragudi chaitanya
 
-College: [Your College Name]
-
-GitHub: https://github.com/YourGitHubUsername
+GitHub: https://github.com/YerragudiChaitanya
 
 📜 License
 
